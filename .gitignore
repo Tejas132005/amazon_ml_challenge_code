@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.venv/
+
+# Pytest cache
+.pytest_cache/
+*/.pytest_cache/
+**/ .pytest_cache/
+
+# dataset
+/dataset/
+dataset/
+
+# output
+/output/
+output/

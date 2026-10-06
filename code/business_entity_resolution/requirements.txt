@@ -1,0 +1,11 @@
+# Python 3.13 (Windows x64 wheels verified on PyPI for every pin below)
+numpy==2.5.3
+pandas==3.0.6
+pyarrow==25.0.1
+psutil==7.2.2
+pytest==9.1.1
+rapidfuzz==3.14.6
+scikit-learn==1.9.1
+scipy==1.18.1
+joblib==1.6.0
+lightgbm==4.7.0
